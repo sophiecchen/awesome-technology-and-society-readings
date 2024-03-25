@@ -1,12 +1,18 @@
 # Awesome Technology and Society Readings [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Inspired by the curated lists awesome-* lists throughout GitHub and motivated by the lack of emphasis on thinking holistically about the societal impact of technology in many computer science university curricula, here's a list of publically-available technology and society readings that I think computer science and security students should take a look at.
+Inspired by the curated lists awesome-* lists throughout GitHub and motivated by the lack of emphasis on thinking holistically about the societal impact of technology in many computer science university curricula, here's a list of publicly available technology and society readings that I think computer science and security students should take a look at.
 
-## Ethical Implications of Computer Science
+## The Moral Character of Technology
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway (2015)
 
 ## Technology Outside of Computer Science
 - [You and the Atomic Bomb](https://www.orwell.ru/library/articles/ABomb/english/e_abomb) by George Orwell (1945)
+
+## Privacy and Surveillance
+
+## Human Trafficking
+
+## The Responsibility
 
 ## Where to Find More
 The list of readings above is of course non-exhaustive: as technology evolves, new work on the intersection of technology and society continues to be released. Here are some people, labs, and organizations (in no particular order) who have worked on and wrote about the topics listed above.
