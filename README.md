@@ -5,9 +5,8 @@ Inspired by the curated lists awesome-* lists throughout GitHub and motivated by
 ## Ethical Implications of Computer Science
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway (2015)
 
-## Surveillance
-
 ## Technology Outside of Computer Science
+- [You and the Atomic Bomb](https://www.orwell.ru/library/articles/ABomb/english/e_abomb) by George Orwell (1945)
 
 ## Where to Find More
 The list of readings above is of course non-exhaustive: as technology evolves, new work on the intersection of technology and society continues to be released. Here are some people, labs, and organizations (in no particular order) who have worked on and wrote about the topics listed above.
