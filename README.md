@@ -9,15 +9,20 @@ Inspired by the curated lists awesome-* lists throughout GitHub and motivated by
 - [You and the Atomic Bomb](https://www.orwell.ru/library/articles/ABomb/english/e_abomb) by George Orwell (1945)
 - [The Russell-Einstein Manifesto](https://pugwash.org/1955/07/09/statement-manifesto/) (1955)
 
-## Privacy and Surveillance
+## Censorship, Privacy, Surveillance
 
 ## Social Media and Data Collection
-- [neveragain.tech](https://neveragain.tech/)
+
+## Machine Learning and AI
 
 ## Human Trafficking
 
 ## Intimate Partner Violence
 - [“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](http://nixdell.com/papers/stalkers-paradise-intimate.pdf) by D. Freed, J. Palmer, D. Minchala, K. Levy, T. Ristenpart, and N. Dell
+
+## Pledges
+- [neveragain.tech](https://neveragain.tech/)
+- [Some Pledges for Scientists and Engineers](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/pledges.pdf) compiled by Philip Rogaway
 
 ## Where to Find More
 The list of readings above is of course non-exhaustive: as technology evolves, new work on the intersection of technology and society continues to be released. Here are some people, labs, and organizations (in no particular order) who have worked on and wrote about the topics listed above.
