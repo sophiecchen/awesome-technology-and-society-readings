@@ -1,26 +1,34 @@
 # Awesome Technology and Society Readings [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Inspired by the curated lists awesome-* lists throughout GitHub and motivated by the lack of emphasis on thinking holistically about the societal impact of technology in many computer science university curricula, here's a list of publicly available technology and society readings that I think computer science and security students should take a look at. To be clear, most of these readings are depressing and very much not awesome. However, I think that as practitioners of technology, we have the moral responsibility to reflect on and understand the worst ways that technology has played out in society, so as to stop us from using our skills to build a world even more inhumane.
+Motivated by the curated lists awesome-* lists throughout GitHub and by the lack of emphasis on thinking holistically about the societal impact of technology in many computer science university curricula, here's a list of publicly available technology and society readings that I think computer science and security practitioners and students should take a look at. To be clear, most of these readings are depressing and very much not awesome. However, I think that as practitioners of technology, we have the moral responsibility to reflect on and understand the worst ways that technology has played out in society, so as to stop us from using our skills to build a world even more inhumane.
+
+A big thanks to Dr. Philip Rogaway, who many of these readings have come from and who inspired this collection.
 
 ## My All-Time Favorite
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway (2015)
 
-## Nuclear Weapons
+## Nuclear Weapons and War
 - [You and the Atomic Bomb](https://www.orwell.ru/library/articles/ABomb/english/e_abomb) by George Orwell (1945)
 - [The Russell-Einstein Manifesto](https://pugwash.org/1955/07/09/statement-manifesto/) (1955)
 
 ## Censorship, Privacy, Surveillance
+- [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) by Eric Hughes (1993)
 
-## Social Media and Data Collection
+## Social Media and Distraction
 
 ## Machine Learning and AI
 
+## Bias and Discrimination
+
+## Information Freedom and Intellectual Property
+- [An Open Letter](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/wiener1.pdf) by Norbert Wiener (1947)
+
 ## Human Trafficking
 
-## Intimate Partner Violence
+## Abuse and Violence
 - [“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](http://nixdell.com/papers/stalkers-paradise-intimate.pdf) by D. Freed, J. Palmer, D. Minchala, K. Levy, T. Ristenpart, and N. Dell
 
-## Pledges
+## Pledges and Codes
 - [neveragain.tech](https://neveragain.tech/)
 - [Some Pledges for Scientists and Engineers](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/pledges.pdf) compiled by Philip Rogaway
 
