@@ -5,14 +5,16 @@ Inspired by the curated lists awesome-* lists throughout GitHub and motivated by
 ## The Moral Character of Technology
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway (2015)
 
-## Technology Outside of Computer Science
+## Nuclear Weapons
 - [You and the Atomic Bomb](https://www.orwell.ru/library/articles/ABomb/english/e_abomb) by George Orwell (1945)
+- [The Russell-Einstein Manifesto](https://pugwash.org/1955/07/09/statement-manifesto/) (1955)
 
 ## Privacy and Surveillance
 
 ## Human Trafficking
 
 ## The Responsibility
+- [neveragain.tech](https://neveragain.tech/)
 
 ## Where to Find More
 The list of readings above is of course non-exhaustive: as technology evolves, new work on the intersection of technology and society continues to be released. Here are some people, labs, and organizations (in no particular order) who have worked on and wrote about the topics listed above.
