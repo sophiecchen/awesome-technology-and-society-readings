@@ -2,7 +2,7 @@
 
 Inspired by the curated lists awesome-* lists throughout GitHub and motivated by the lack of emphasis on thinking holistically about the societal impact of technology in many computer science university curricula, here's a list of publicly available technology and society readings that I think computer science and security students should take a look at.
 
-## The Moral Character of Technology
+## My All-Time Favorite
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway (2015)
 
 ## Nuclear Weapons
@@ -11,10 +11,10 @@ Inspired by the curated lists awesome-* lists throughout GitHub and motivated by
 
 ## Privacy and Surveillance
 
-## Human Trafficking
-
-## The Responsibility
+## Social Media and Data Collection
 - [neveragain.tech](https://neveragain.tech/)
+
+## Human Trafficking
 
 ## Where to Find More
 The list of readings above is of course non-exhaustive: as technology evolves, new work on the intersection of technology and society continues to be released. Here are some people, labs, and organizations (in no particular order) who have worked on and wrote about the topics listed above.
@@ -22,6 +22,7 @@ The list of readings above is of course non-exhaustive: as technology evolves, n
 ### People
 - [Roya Ensafi](https://ensa.fi/)
 - [Alex Halderman](https://jhalderm.com/)
+- [Seny Kamara](https://cs.brown.edu/~seny/)
 - [Philip Rogaway](https://web.cs.ucdavis.edu/~rogaway/)
 
 ### Labs and Organizations
