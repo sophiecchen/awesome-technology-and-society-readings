@@ -24,7 +24,7 @@ A big thanks to Dr. Philip Rogaway, who many of these readings have come from an
 ## Human Trafficking
 
 ## Abuse and Violence
-- [“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](http://nixdell.com/papers/stalkers-paradise-intimate.pdf) by D. Freed, J. Palmer, D. Minchala, K. Levy, T. Ristenpart, and N. Dell
+- [“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](http://nixdell.com/papers/stalkers-paradise-intimate.pdf) by D. Freed, J. Palmer, D. Minchala, K. Levy, T. Ristenpart, and N. Dell (2018)
 
 ## Manifestos, Pledges, and Codes
 - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html) by Richard Stallman (1985)
