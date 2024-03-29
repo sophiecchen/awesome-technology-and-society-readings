@@ -26,7 +26,7 @@ A big thanks to Dr. Philip Rogaway, who many of these readings have come from an
 ## Abuse and Violence
 - [“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](http://nixdell.com/papers/stalkers-paradise-intimate.pdf) by D. Freed, J. Palmer, D. Minchala, K. Levy, T. Ristenpart, and N. Dell
 
-## Pledges and Codes
+## Manifestos, Pledges, and Codes
 - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html) by Richard Stallman (1985)
 - [ACM Code of Ethics and Professional Conduct](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/acm-code-of-ethics.pdf) (1992)
 - [IEEE Code of Ethics](http://www.ieee.org/portal/cms_docs/about/CoE_poster.pdf) (2006)
