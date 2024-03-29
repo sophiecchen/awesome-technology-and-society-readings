@@ -9,6 +9,7 @@ A big thanks to Dr. Philip Rogaway, who many of these readings have come from an
 
 ## Nuclear Weapons and War
 - [You and the Atomic Bomb](https://www.orwell.ru/library/articles/ABomb/english/e_abomb) by George Orwell (1945)
+- [An Open Letter](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/wiener1.pdf) by Norbert Wiener (1947)
 - [The Russell-Einstein Manifesto](https://pugwash.org/1955/07/09/statement-manifesto/) (1955)
 
 ## Censorship, Privacy, Surveillance
@@ -20,15 +21,15 @@ A big thanks to Dr. Philip Rogaway, who many of these readings have come from an
 
 ## Bias and Discrimination
 
-## Information Freedom and Intellectual Property
-- [An Open Letter](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/wiener1.pdf) by Norbert Wiener (1947)
-
 ## Human Trafficking
 
 ## Abuse and Violence
 - [“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](http://nixdell.com/papers/stalkers-paradise-intimate.pdf) by D. Freed, J. Palmer, D. Minchala, K. Levy, T. Ristenpart, and N. Dell
 
 ## Pledges and Codes
+- [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html) by Richard Stallman (1985)
+- [ACM Code of Ethics and Professional Conduct](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/acm-code-of-ethics.pdf) (1992)
+- [IEEE Code of Ethics](http://www.ieee.org/portal/cms_docs/about/CoE_poster.pdf) (2006)
 - [neveragain.tech](https://neveragain.tech/)
 - [Some Pledges for Scientists and Engineers](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/pledges.pdf) compiled by Philip Rogaway
 
