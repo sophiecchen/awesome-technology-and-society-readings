@@ -7,6 +7,8 @@ A big thanks to Dr. Philip Rogaway, who many of these readings have come from an
 ## My All-Time Favorite
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway (2015)
 
+## Technology
+
 ## Nuclear Weapons and War
 - [You and the Atomic Bomb](https://www.orwell.ru/library/articles/ABomb/english/e_abomb) by George Orwell (1945)
 - [An Open Letter](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/wiener1.pdf) by Norbert Wiener (1947)
