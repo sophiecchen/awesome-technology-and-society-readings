@@ -2,8 +2,6 @@
 
 Motivated by the curated lists awesome-* lists throughout GitHub and by the lack of emphasis on thinking holistically about the societal impact of technology in many computer science university curricula, here's a list of publicly available technology and society readings that I think computer science and security practitioners and students should take a look at.
 
-A big thanks to Dr. Philip Rogaway, who many of these readings have come from and who inspired this collection.
-
 ## My All-Time Favorite
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway (2015)
 
@@ -16,17 +14,21 @@ A big thanks to Dr. Philip Rogaway, who many of these readings have come from an
 
 ## Censorship, Privacy, Surveillance
 - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) by Eric Hughes (1993)
+- [Tor: The Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) by R. Dingledine, N. Mathewson, and P. Syverson (2004)
+- [Mapping Muslims: NYPD Spying and Its Impact on American Muslims](https://www.law.cuny.edu/wp-content/uploads/page-assets/academics/clinics/immigration/clear/Mapping-Muslims.pdf) by D. Shamas, and N. Arastu (2013)
 
-## Social Media and Distraction
-
-## Machine Learning and AI
-
-## Bias and Discrimination
+## Sexual Misconduct
+- [Cryptography for #MeToo](https://petsymposium.org/2019/files/papers/issue3/popets-2019-0054.pdf) by B. Kuykendall, H. Krawczyk, T. Rabin (2019)
 
 ## Human Trafficking
+- [The Rise of Mobile and the Diffusion of Technology-Facilitated Trafficking](https://technologyandtrafficking.usc.edu/files/2012/11/HumanTrafficking2012_Nov12.pdf) by M. Latonero, J. Musto, Z. Boyd, A. Bissel, K. Gibson, J. Kim. (2012)
+- [The Trafficking-Technology Nexus](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Social20Politics2028Musto20and20boyd29.pdf) by J. Musto, d. boyd (2014)
+- [Understanding Law Enforcement Strategies and Needs for Combating Human Trafficking](https://www.cc.gatech.edu/~aendert3/resources/2019SwihartUnderstanding.pdf) by J. Deeb-Swihart, A. Endert, and A. Bruckman (2019)
+- [Computer Security and Privacy in the Interactions Between Victim Service Providers and Human Trafficking Survivors](https://www.usenix.org/system/files/sec19-chen-christine.pdf) by C. Chen, N. Dell, and F. Roesner (2019)
 
 ## Abuse and Violence
 - [“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](http://nixdell.com/papers/stalkers-paradise-intimate.pdf) by D. Freed, J. Palmer, D. Minchala, K. Levy, T. Ristenpart, and N. Dell (2018)
+- [The Spyware Used in Intimate Partner Violence](http://nixdell.com/papers/spyware.pdf) by R. Chatterjee, P. Doerfler, H. Orgad, S. Havron, J. Palmer, D. Freed, K. Levy, N. Dell, D. McCoy, and T. Ristenpart (2018)
 
 ## Manifestos, Pledges, and Codes
 - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html) by Richard Stallman (1985)
