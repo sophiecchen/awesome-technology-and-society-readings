@@ -6,6 +6,8 @@ Motivated by the curated lists awesome-* lists throughout GitHub and by the lack
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway (2015)
 
 ## Technology
+- [The Machine Stops](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/the%20machine%20stops.pdf) by E. M. Forster (1909)
+- [Five Things We Need to Know About Technological Change](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf) by Neil Postman (1998)
 
 ## Nuclear Weapons and War
 - [You and the Atomic Bomb](https://www.orwell.ru/library/articles/ABomb/english/e_abomb) by George Orwell (1945)
@@ -13,13 +15,16 @@ Motivated by the curated lists awesome-* lists throughout GitHub and by the lack
 - [The Russell-Einstein Manifesto](https://pugwash.org/1955/07/09/statement-manifesto/) (1955)
 
 ## Censorship, Privacy, Surveillance
+- [Security without Identification: Transaction Systems to Make Big Brother Obsolete](https://dl.acm.org/doi/abs/10.1145/4372.4373) by David Chaum (1981)
 - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) by Eric Hughes (1993)
 - [Talking with Vula](https://omalley.nelsonmandela.org/index.php/site/q/03lv03445/04lv03996/05lv04001.htm) by Tim Jenkin (1995)
 - [Tor: The Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) by R. Dingledine, N. Mathewson, and P. Syverson (2004)
 - [Privacy Impact Assessment for the ICEGangs Database](https://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_ice_icegangs.pdf) by Department of Homeland Security (2010)
 - [Protecting Privacy From Aerial Surveillance](https://www.aclu.org/files/assets/protectingprivacyfromaerialsurveillance.pdf) by J. Stanley and C. Crump (2011)
 - [Mapping Muslims: NYPD Spying and Its Impact on American Muslims](https://www.law.cuny.edu/wp-content/uploads/page-assets/academics/clinics/immigration/clear/Mapping-Muslims.pdf) by D. Shamas and N. Arastu (2013)
+- [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization](https://link.springer.com/article/10.1057%2Fjit.2015.5) by Shoshana Zuboff (2015)
 - [The Perpetual Line Up - Unregulated Police Face Recognition in America](https://www.perpetuallineup.org/sites/default/files/2016-12/The%20Perpetual%20Line-Up%20-%20Center%20on%20Privacy%20and%20Technology%20at%20Georgetown%20Law%20-%20121616.pdf) by C. Garvie, A. M. Bedoya, J. Frankle (2016)
+- [Lessons Learned Too Well: Anonymity in a Time of Surveillance](https://repository.law.miami.edu/cgi/viewcontent.cgi?article=1311&context=fac_articles) by A. Michael Froomkin (2017)
 - [Social Media Monitoring](https://www.brennancenter.org/sites/default/files/publications/2019_DHS-SocialMediaMonitoring_FINAL.pdf) by F. Patel, R. Levinson-Waldman, S. DenUyl, and R. Koreh (2019)
 
 ## Machine Learning
