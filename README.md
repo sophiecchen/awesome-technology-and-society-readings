@@ -1,6 +1,6 @@
 # Awesome Technology and Society Readings [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Motivated by the curated lists awesome-* lists throughout GitHub and by the lack of emphasis on thinking holistically about the societal impact of technology in many computer science university curricula, here's a list of publicly available technology and society readings that I think computer science and security practitioners and students should take a look at.
+Motivated by the curated lists awesome-* lists throughout GitHub and by the lack of emphasis on thinking holistically about the societal impact of technology in many computer science university curricula, here's a list of publicly available readings that raise interesting and relevant questions about the role technology plays in society.
 
 ## My All-Time Favorite
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway (2015)
@@ -26,9 +26,6 @@ Motivated by the curated lists awesome-* lists throughout GitHub and by the lack
 - [The Perpetual Line Up - Unregulated Police Face Recognition in America](https://www.perpetuallineup.org/sites/default/files/2016-12/The%20Perpetual%20Line-Up%20-%20Center%20on%20Privacy%20and%20Technology%20at%20Georgetown%20Law%20-%20121616.pdf) by C. Garvie, A. M. Bedoya, J. Frankle (2016)
 - [Lessons Learned Too Well: Anonymity in a Time of Surveillance](https://repository.law.miami.edu/cgi/viewcontent.cgi?article=1311&context=fac_articles) by A. Michael Froomkin (2017)
 - [Social Media Monitoring](https://www.brennancenter.org/sites/default/files/publications/2019_DHS-SocialMediaMonitoring_FINAL.pdf) by F. Patel, R. Levinson-Waldman, S. DenUyl, and R. Koreh (2019)
-
-## Machine Learning
-- [Automated Inference on Criminality using Face Images](https://arxiv.org/pdf/1611.04135v1.pdf) by X. Wu and X. Zhang (2016)
 
 ## Democracy
 - [The Antrim County 2020 Election Incident: An Independent Forensic Investigation](https://www.usenix.org/system/files/sec22-halderman.pdf) by Alex Halderman (2022)
