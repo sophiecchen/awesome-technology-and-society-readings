@@ -30,6 +30,9 @@ Motivated by the curated lists awesome-* lists throughout GitHub and by the lack
 ## Machine Learning
 - [Automated Inference on Criminality using Face Images](https://arxiv.org/pdf/1611.04135v1.pdf) by X. Wu and X. Zhang (2016)
 
+## Democracy
+- [The Antrim County 2020 Election Incident: An Independent Forensic Investigation](https://www.usenix.org/system/files/sec22-halderman.pdf) by Alex Halderman (2022)
+
 ## Sexual Misconduct
 - [Cryptography for #MeToo](https://petsymposium.org/2019/files/papers/issue3/popets-2019-0054.pdf) by B. Kuykendall, H. Krawczyk, and T. Rabin (2019)
 
