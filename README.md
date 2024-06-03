@@ -68,3 +68,4 @@ The list of readings above is of course non-exhaustive: as technology evolves, n
 - [Privacy International](https://privacyinternational.org/)
 - [Surveillance Studies Network](https://surveillance-studies.net/)
 - [The Citizen Lab](https://citizenlab.ca/)
+- [Center for Democracy & Technology](https://cdt.org/)
