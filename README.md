@@ -18,33 +18,33 @@ Motivated by the curated lists awesome-* lists throughout GitHub and by the lack
 - [Security without Identification: Transaction Systems to Make Big Brother Obsolete](https://dl.acm.org/doi/abs/10.1145/4372.4373) by David Chaum (1981)
 - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) by Eric Hughes (1993)
 - [Talking with Vula](https://omalley.nelsonmandela.org/index.php/site/q/03lv03445/04lv03996/05lv04001.htm) by Tim Jenkin (1995)
-- [Tor: The Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) by R. Dingledine, N. Mathewson, and P. Syverson (2004)
+- [Tor: The Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) by Roger Dingledine, Nick Mathewson, and Paul Syverson (2004)
 - [Privacy Impact Assessment for the ICEGangs Database](https://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_ice_icegangs.pdf) by Department of Homeland Security (2010)
-- [Protecting Privacy From Aerial Surveillance](https://www.aclu.org/files/assets/protectingprivacyfromaerialsurveillance.pdf) by J. Stanley and C. Crump (2011)
-- [Mapping Muslims: NYPD Spying and Its Impact on American Muslims](https://www.law.cuny.edu/wp-content/uploads/page-assets/academics/clinics/immigration/clear/Mapping-Muslims.pdf) by D. Shamas and N. Arastu (2013)
+- [Protecting Privacy From Aerial Surveillance](https://www.aclu.org/files/assets/protectingprivacyfromaerialsurveillance.pdf) by Jay Stanley and Catherine Crump (2011)
+- [Mapping Muslims: NYPD Spying and Its Impact on American Muslims](https://www.law.cuny.edu/wp-content/uploads/page-assets/academics/clinics/immigration/clear/Mapping-Muslims.pdf) by Diala Shamas and Nermeen Arastu (2013)
 - [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization](https://link.springer.com/article/10.1057%2Fjit.2015.5) by Shoshana Zuboff (2015)
-- [The Perpetual Line Up - Unregulated Police Face Recognition in America](https://www.perpetuallineup.org/sites/default/files/2016-12/The%20Perpetual%20Line-Up%20-%20Center%20on%20Privacy%20and%20Technology%20at%20Georgetown%20Law%20-%20121616.pdf) by C. Garvie, A. M. Bedoya, J. Frankle (2016)
+- [The Perpetual Line Up - Unregulated Police Face Recognition in America](https://www.perpetuallineup.org/sites/default/files/2016-12/The%20Perpetual%20Line-Up%20-%20Center%20on%20Privacy%20and%20Technology%20at%20Georgetown%20Law%20-%20121616.pdf) by Clare Garvie, Alvaro M. Bedoya, Jonathan Frankle (2016)
 - [Lessons Learned Too Well: Anonymity in a Time of Surveillance](https://repository.law.miami.edu/cgi/viewcontent.cgi?article=1311&context=fac_articles) by A. Michael Froomkin (2017)
-- [Social Media Monitoring](https://www.brennancenter.org/sites/default/files/publications/2019_DHS-SocialMediaMonitoring_FINAL.pdf) by F. Patel, R. Levinson-Waldman, S. DenUyl, and R. Koreh (2019)
+- [Social Media Monitoring](https://www.brennancenter.org/sites/default/files/publications/2019_DHS-SocialMediaMonitoring_FINAL.pdf) by Faiza Patel, Rachel Levinson-Waldman, Sophia DenUyl, and Raya Koreh (2019)
 
 ## Democracy
 - [The Antrim County 2020 Election Incident: An Independent Forensic Investigation](https://www.usenix.org/system/files/sec22-halderman.pdf) by Alex Halderman (2022)
 
 ## Machine Learning
-- [Automated Inference on Criminality using Face Images](https://arxiv.org/pdf/1611.04135v1.pdf) by X. Wu and X. Zhang (2016)
+- [Automated Inference on Criminality using Face Images](https://arxiv.org/pdf/1611.04135v1.pdf) by Xiaolin Wu and Xi Zhang (2016)
 
 ## Sexual Misconduct
-- [Cryptography for #MeToo](https://petsymposium.org/2019/files/papers/issue3/popets-2019-0054.pdf) by B. Kuykendall, H. Krawczyk, and T. Rabin (2019)
+- [Cryptography for #MeToo](https://petsymposium.org/2019/files/papers/issue3/popets-2019-0054.pdf) by Benjamin Kuykendall, Hugo Krawczyk, and Tal Rabin (2019)
 
 ## Human Trafficking
-- [The Rise of Mobile and the Diffusion of Technology-Facilitated Trafficking](https://technologyandtrafficking.usc.edu/files/2012/11/HumanTrafficking2012_Nov12.pdf) by M. Latonero, J. Musto, Z. Boyd, A. Bissel, K. Gibson, and J. Kim. (2012)
-- [The Trafficking-Technology Nexus](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Social20Politics2028Musto20and20boyd29.pdf) by J. Musto and d. boyd (2014)
-- [Understanding Law Enforcement Strategies and Needs for Combating Human Trafficking](https://www.cc.gatech.edu/~aendert3/resources/2019SwihartUnderstanding.pdf) by J. Deeb-Swihart, A. Endert, and A. Bruckman (2019)
-- [Computer Security and Privacy in the Interactions Between Victim Service Providers and Human Trafficking Survivors](https://www.usenix.org/system/files/sec19-chen-christine.pdf) by C. Chen, N. Dell, and F. Roesner (2019)
+- [The Rise of Mobile and the Diffusion of Technology-Facilitated Trafficking](https://technologyandtrafficking.usc.edu/files/2012/11/HumanTrafficking2012_Nov12.pdf) by Mark Latonero, Jennifer Musto, Zhaleh Boyd, Ev Boyle, Amber Bissel, Kari Gibson, and Joanne Kim (2012)
+- [The Trafficking-Technology Nexus](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Social20Politics2028Musto20and20boyd29.pdf) by Jennifer Lynne Musto and Danah Boyd (2014)
+- [Understanding Law Enforcement Strategies and Needs for Combating Human Trafficking](https://www.cc.gatech.edu/~aendert3/resources/2019SwihartUnderstanding.pdf) by Julia Deeb-Swihart, Alex Endert, and Amy Bruckman (2019)
+- [Computer Security and Privacy in the Interactions Between Victim Service Providers and Human Trafficking Survivors](https://www.usenix.org/system/files/sec19-chen-christine.pdf) by Christine Chen, Nicola Dell, and Franziska Roesner (2019)
 
 ## Abuse and Violence
-- [“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](http://nixdell.com/papers/stalkers-paradise-intimate.pdf) by D. Freed, J. Palmer, D. Minchala, K. Levy, T. Ristenpart, and N. Dell (2018)
-- [The Spyware Used in Intimate Partner Violence](http://nixdell.com/papers/spyware.pdf) by R. Chatterjee, P. Doerfler, H. Orgad, S. Havron, J. Palmer, D. Freed, K. Levy, N. Dell, D. McCoy, and T. Ristenpart (2018)
+- [“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](http://nixdell.com/papers/stalkers-paradise-intimate.pdf) by Diana Freed, Jackeline Palmer, Diana Minchala, Karen Levy, Thomas Ristenpart, and Nicola Dell (2018)
+- [The Spyware Used in Intimate Partner Violence](http://nixdell.com/papers/spyware.pdf) by Rahul Chatterjee, Periwinkle Doerfler, Hadas Orgad, Sam Havron, Jackeline Palmer, Diana Freed, Karen Levy, Nicola Dell, Damon McCoy, and Thomas Ristenpart (2018)
 
 ## Manifestos, Pledges, and Codes
 - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html) by Richard Stallman (1985)
