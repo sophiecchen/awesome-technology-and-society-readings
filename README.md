@@ -38,7 +38,7 @@ Motivated by the curated lists awesome-* lists throughout GitHub and by the lack
 
 ## Human Trafficking
 - [The Rise of Mobile and the Diffusion of Technology-Facilitated Trafficking](https://technologyandtrafficking.usc.edu/files/2012/11/HumanTrafficking2012_Nov12.pdf) by Mark Latonero, Jennifer Musto, Zhaleh Boyd, Ev Boyle, Amber Bissel, Kari Gibson, and Joanne Kim (2012)
-- [The Trafficking-Technology Nexus](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Social20Politics2028Musto20and20boyd29.pdf) by Jennifer Lynne Musto and Danah Boyd (2014)
+- [The Trafficking-Technology Nexus](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Social20Politics2028Musto20and20boyd29.pdf) by Jennifer Lynne Musto and danah boyd (2014)
 - [Understanding Law Enforcement Strategies and Needs for Combating Human Trafficking](https://www.cc.gatech.edu/~aendert3/resources/2019SwihartUnderstanding.pdf) by Julia Deeb-Swihart, Alex Endert, and Amy Bruckman (2019)
 - [Computer Security and Privacy in the Interactions Between Victim Service Providers and Human Trafficking Survivors](https://www.usenix.org/system/files/sec19-chen-christine.pdf) by Christine Chen, Nicola Dell, and Franziska Roesner (2019)
 
